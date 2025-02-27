@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://<your-username>.github.io/vite_react_github_secrets_manager_5rp2vv/",
+  "homepage": "https://bellaabdelouahab.github.io/github_secrets_manager/",
   "scripts": {
     "dev": "vite --port 3000",
     "build": "vite build",
